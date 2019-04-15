@@ -75,6 +75,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5379238F22653F4400E4D2F3 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		CDF079C11975428800FFAB46 = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +101,7 @@
 		CDF079CC1975428800FFAB46 /* SKInvaders */ = {
 			isa = PBXGroup;
 			children = (
+				5379238F22653F4400E4D2F3 /* Images */,
 				CDF079F01975453100FFAB46 /* Assets */,
 				CDF079CF1975428800FFAB46 /* AppDelegate.swift */,
 				CDF079D31975428800FFAB46 /* GameScene.swift */,
