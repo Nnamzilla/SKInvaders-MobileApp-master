@@ -137,11 +137,11 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         
         switch(invaderType) {
         case .a:
-            prefix = "InvaderA"
+            prefix = "AkatsukiA"
         case .b:
-            prefix = "InvaderB"
+            prefix = "AkatsukiB"
         case .c:
-            prefix = "InvaderC"
+            prefix = "AkatsukiC"
         }
         
         // 1
@@ -217,7 +217,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     }
     
     func makeShip() -> SKNode {
-        let ship = SKSpriteNode(imageNamed: "Ship.png")
+        let ship = SKSpriteNode(imageNamed: "Sasuke.png")
         ship.name = kShipName
         
         // 1

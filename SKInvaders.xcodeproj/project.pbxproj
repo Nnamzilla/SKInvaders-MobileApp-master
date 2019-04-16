@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		535AA48D22658B6000D5BFCA /* AppIcon.appiconset in Resources */ = {isa = PBXBuildFile; fileRef = 535AA48922658B5F00D5BFCA /* AppIcon.appiconset */; };
+		535AA48E22658B6000D5BFCA /* iTunesArtwork@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA48A22658B5F00D5BFCA /* iTunesArtwork@1x.png */; };
+		535AA48F22658B6000D5BFCA /* iTunesArtwork@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA48B22658B5F00D5BFCA /* iTunesArtwork@3x.png */; };
+		535AA49022658B6000D5BFCA /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA48C22658B6000D5BFCA /* iTunesArtwork@2x.png */; };
+		535AA4982265921400D5BFCA /* Sasuke.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA4972265921400D5BFCA /* Sasuke.png */; };
+		535AA49A2265936300D5BFCA /* AkatsukiA_00.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA4992265936300D5BFCA /* AkatsukiA_00.png */; };
+		535AA4A02265936D00D5BFCA /* AkatsukiB_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA49B2265936D00D5BFCA /* AkatsukiB_01.png */; };
+		535AA4A12265936D00D5BFCA /* AkatsukiA_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA49C2265936D00D5BFCA /* AkatsukiA_01.png */; };
+		535AA4A22265936D00D5BFCA /* AkatsukiC_00.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA49D2265936D00D5BFCA /* AkatsukiC_00.png */; };
+		535AA4A32265936D00D5BFCA /* AkatsukiC_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA49E2265936D00D5BFCA /* AkatsukiC_01.png */; };
+		535AA4A42265936D00D5BFCA /* AkatsukiB_00.png in Resources */ = {isa = PBXBuildFile; fileRef = 535AA49F2265936D00D5BFCA /* AkatsukiB_00.png */; };
 		CDF079D01975428800FFAB46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF079CF1975428800FFAB46 /* AppDelegate.swift */; };
 		CDF079D41975428800FFAB46 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF079D31975428800FFAB46 /* GameScene.swift */; };
 		CDF079D61975428800FFAB46 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDF079D51975428800FFAB46 /* GameViewController.swift */; };
@@ -35,6 +46,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		535AA48922658B5F00D5BFCA /* AppIcon.appiconset */ = {isa = PBXFileReference; lastKnownFileType = folder; path = AppIcon.appiconset; sourceTree = "<group>"; };
+		535AA48A22658B5F00D5BFCA /* iTunesArtwork@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@1x.png"; sourceTree = "<group>"; };
+		535AA48B22658B5F00D5BFCA /* iTunesArtwork@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@3x.png"; sourceTree = "<group>"; };
+		535AA48C22658B6000D5BFCA /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		535AA4972265921400D5BFCA /* Sasuke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Sasuke.png; path = "../../../../Desktop/Images for game/Sasuke.png"; sourceTree = "<group>"; };
+		535AA4992265936300D5BFCA /* AkatsukiA_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AkatsukiA_00.png; sourceTree = "<group>"; };
+		535AA49B2265936D00D5BFCA /* AkatsukiB_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AkatsukiB_01.png; sourceTree = "<group>"; };
+		535AA49C2265936D00D5BFCA /* AkatsukiA_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AkatsukiA_01.png; sourceTree = "<group>"; };
+		535AA49D2265936D00D5BFCA /* AkatsukiC_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AkatsukiC_00.png; sourceTree = "<group>"; };
+		535AA49E2265936D00D5BFCA /* AkatsukiC_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AkatsukiC_01.png; sourceTree = "<group>"; };
+		535AA49F2265936D00D5BFCA /* AkatsukiB_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AkatsukiB_00.png; sourceTree = "<group>"; };
 		CDF079CA1975428800FFAB46 /* SKInvaders.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SKInvaders.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDF079CE1975428800FFAB46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDF079CF1975428800FFAB46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -75,9 +97,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		535AA48822658B4300D5BFCA /* App Icon Set */ = {
+			isa = PBXGroup;
+			children = (
+				535AA48922658B5F00D5BFCA /* AppIcon.appiconset */,
+				535AA48A22658B5F00D5BFCA /* iTunesArtwork@1x.png */,
+				535AA48C22658B6000D5BFCA /* iTunesArtwork@2x.png */,
+				535AA48B22658B5F00D5BFCA /* iTunesArtwork@3x.png */,
+			);
+			path = "App Icon Set";
+			sourceTree = "<group>";
+		};
 		5379238F22653F4400E4D2F3 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				535AA4972265921400D5BFCA /* Sasuke.png */,
+				535AA4992265936300D5BFCA /* AkatsukiA_00.png */,
+				535AA49C2265936D00D5BFCA /* AkatsukiA_01.png */,
+				535AA49F2265936D00D5BFCA /* AkatsukiB_00.png */,
+				535AA49B2265936D00D5BFCA /* AkatsukiB_01.png */,
+				535AA49D2265936D00D5BFCA /* AkatsukiC_00.png */,
+				535AA49E2265936D00D5BFCA /* AkatsukiC_01.png */,
+				535AA48822658B4300D5BFCA /* App Icon Set */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -225,25 +266,36 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDF07A0A1975453100FFAB46 /* ShipHit.wav in Resources */,
+				535AA4A42265936D00D5BFCA /* AkatsukiB_00.png in Resources */,
+				535AA4982265921400D5BFCA /* Sasuke.png in Resources */,
 				CDF079DB1975428800FFAB46 /* Images.xcassets in Resources */,
 				CDF07A181975453100FFAB46 /* Ship@2x.png in Resources */,
 				CDF07A171975453100FFAB46 /* Ship.png in Resources */,
+				535AA48F22658B6000D5BFCA /* iTunesArtwork@3x.png in Resources */,
 				CDF07A0D1975453100FFAB46 /* InvaderA_01.png in Resources */,
 				CDF07A081975453100FFAB46 /* InvaderHit.wav in Resources */,
 				CDF07A0E1975453100FFAB46 /* InvaderA_01@2x.png in Resources */,
 				CDF07A111975453100FFAB46 /* InvaderB_01.png in Resources */,
 				CDF07A161975453100FFAB46 /* InvaderC_01@2x.png in Resources */,
 				CDF07A061975453100FFAB46 /* AssetLicensingNotes.txt in Resources */,
+				535AA49022658B6000D5BFCA /* iTunesArtwork@2x.png in Resources */,
 				CDF07A131975453100FFAB46 /* InvaderC_00.png in Resources */,
+				535AA4A02265936D00D5BFCA /* AkatsukiB_01.png in Resources */,
 				CDF07A151975453100FFAB46 /* InvaderC_01.png in Resources */,
+				535AA4A22265936D00D5BFCA /* AkatsukiC_00.png in Resources */,
+				535AA4A32265936D00D5BFCA /* AkatsukiC_01.png in Resources */,
 				CDF07A101975453100FFAB46 /* InvaderB_00@2x.png in Resources */,
 				CDF07A0B1975453100FFAB46 /* InvaderA_00.png in Resources */,
+				535AA48D22658B6000D5BFCA /* AppIcon.appiconset in Resources */,
 				CDF07A121975453100FFAB46 /* InvaderB_01@2x.png in Resources */,
 				CDF07A0C1975453100FFAB46 /* InvaderA_00@2x.png in Resources */,
 				CDF07A091975453100FFAB46 /* ShipBullet.wav in Resources */,
+				535AA49A2265936300D5BFCA /* AkatsukiA_00.png in Resources */,
 				CDF07A141975453100FFAB46 /* InvaderC_00@2x.png in Resources */,
 				CDF079D91975428800FFAB46 /* Main.storyboard in Resources */,
 				CDF07A0F1975453100FFAB46 /* InvaderB_00.png in Resources */,
+				535AA48E22658B6000D5BFCA /* iTunesArtwork@1x.png in Resources */,
+				535AA4A12265936D00D5BFCA /* AkatsukiA_01.png in Resources */,
 				CDF07A071975453100FFAB46 /* InvaderBullet.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
